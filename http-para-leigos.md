@@ -9,7 +9,7 @@ Hypertext Transfer Protocol ~~Paulistas diriam pra chamar só de HTTP~~ é um pr
 ### Protocol
 Protocolo é um conjunto de informações, decisões, normas e regras. 
 > [!IMPORTANT]
-> Agora que sabemos o que é HTTP e o que protocol significa, conseguimos deduzir que HTTP é um conjunto de informações, decisões, normas e regras que ajudam sistemas a transferir dados entre si. Logo, é podemos dizer que o HTTP em si não faz nenhuma transferência, ele só te informa como proceder.
+> Agora que sabemos o que é HTTP e o que protocol significa, conseguimos deduzir que HTTP é um conjunto de informações, decisões, normas e regras que ajudam sistemas a transferir dados entre si. Logo podemos dizer que o HTTP em si não faz nenhuma transferência, ele só te informa como proceder.
 ## Como funciona
 Dentre todos os passos realizados para que a transferência seja propriamente feita, conseguimos dividi-los em cinco diferentes etapas. São elas:
 1. Resoluçao de DNS
